@@ -1,4 +1,4 @@
-from chall_ctm import flag, KEY_1, KEY_2
+from secret import flag, KEY_1, KEY_2
 import binascii
 
 assert KEY_1 < 10000
