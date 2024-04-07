@@ -1,8 +1,8 @@
 from secret import flag, KEY_1, KEY_2
 import binascii
 
-assert KEY_1 < 10000
-assert KEY_2 < 10000
+assert KEY_1 in range(int(1000),int(2000))
+assert KEY_2 in range(int(6000),int(7000))
 
 def messed_up(x, y):
     enc_1 = (primitive ** y) % modulus
