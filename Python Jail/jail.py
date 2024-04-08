@@ -9,7 +9,7 @@ def main():
         if keyword in text.lower():
             print("Noob!")
             return;
-    else:
-        exec(text)
+    
+    exec(text)
 if __name__ == "__main__":
     main()
