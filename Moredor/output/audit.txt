@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Apr 11 20:41:38 2024
+Invocation: foremost -i moredor.png 
+Output directory: /mnt/d/Club Proj/CTM_Assignment_2024-25/Moredor/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: moredor.png
+Start: Thu Apr 11 20:41:38 2024
+Length: 405 KB (415288 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     272 KB 	          0 	  (1799 x 894)
+Finish: Thu Apr 11 20:41:38 2024
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Apr 11 20:41:39 2024
