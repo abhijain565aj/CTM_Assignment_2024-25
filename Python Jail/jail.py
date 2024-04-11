@@ -12,6 +12,9 @@ def main():
     for keyword in ['builtins', 'dir', 'name', 'class', 'base', 'mro', 'globals', 'subprocess', 'eval', 'exec', 'import', 'open', 'os', 'read', 'system', 'write', '_']:
         if keyword in text.lower():
             print("Noob!")
+            return;
+    
+    exec(text)
             return
     exec(text)
 
